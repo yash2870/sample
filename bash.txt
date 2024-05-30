@@ -17,11 +17,11 @@ git init
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/SOUMYADIP76/aws_practice.git
+git remote add origin https://github.com/yash2870/sample.git
 git push -u origin main
 
 github to local machine
-git clone https://github.com/SOUMYADIP76/aws_practice.git
+git clone https://github.com/yash2870/sample.git
 
 
 project github to EC2
@@ -31,7 +31,7 @@ sudo apt-get install nginx
 nginx -v
 curl -SL https://deb.nodesource.com/setup_16.x|sudo -E bash
 sudo apt install nodejs
-git clone https://github.com/SOUMYADIP76/AWS_project1.git
+git clone https://github.com/yash2870/sample.git
 ls
 cd aws_project1
 npm install
@@ -48,7 +48,7 @@ systemctl enable nginx
 apt-get install -y git
 curl -SL https://deb.nodesource.com/setup_16.x|sudo -E bash -
 apt-get install -y nodejs
-git clone https://github.com/SOUMYADIP76/AWS_project1.git
+git clone https://github.com/yash2870/sample.git
 cd AWS_project1
 npm install
 node index.js
@@ -61,7 +61,7 @@ sudo apt-get install nginx
 nginx -v
 curl -SL https://deb.nodesource.com/setup_16.x|sudo -E bash
 sudo apt install nodejs
-git clone https://github.com/SOUMYADIP76/AWS_project1.git
+git clone https://github.com/yash2870/sample.git
 ls
 cd aws_project1
 npm install
